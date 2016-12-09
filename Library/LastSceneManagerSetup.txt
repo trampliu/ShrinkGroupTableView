@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ImportPackage/NGUI/Examples/Scenes/Example 9 - Quest Log.unity
+  isLoaded: 1
+  isActive: 1

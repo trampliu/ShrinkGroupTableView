@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShrinkGroupTableView.CSharp", "ShrinkGroupTableView.CSharp.csproj", "{A8B41BE5-5C24-595A-7C2A-E16E27931E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShrinkGroupTableView.CSharp.Editor", "ShrinkGroupTableView.CSharp.Editor.csproj", "{B6F3440B-C632-441B-CBEE-28DDB50F5602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8B41BE5-5C24-595A-7C2A-E16E27931E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B41BE5-5C24-595A-7C2A-E16E27931E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B41BE5-5C24-595A-7C2A-E16E27931E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B41BE5-5C24-595A-7C2A-E16E27931E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F3440B-C632-441B-CBEE-28DDB50F5602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F3440B-C632-441B-CBEE-28DDB50F5602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F3440B-C632-441B-CBEE-28DDB50F5602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F3440B-C632-441B-CBEE-28DDB50F5602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
